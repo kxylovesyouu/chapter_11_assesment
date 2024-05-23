@@ -1,0 +1,25 @@
+h2{
+    color: black;
+    text-align: center;
+}
+a{
+    color: orange;
+    text-decoration: none;
+    text-align: center;
+
+}
+
+.container1{
+    border-style: outset;
+    border-color: black;
+    border-width: 2px;
+    padding: 50px;
+}
+
+.container2{
+    border-style: outset;
+    border-color: black;
+    border-width: 2px;
+   
+
+}
